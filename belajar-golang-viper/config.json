@@ -1,0 +1,13 @@
+{
+    "app" : {
+        "name" : "Belajar golang viper",
+        "version" : "1.0.0",
+        "author" : "Nuur Firdaus Ramandani"
+    },
+    "database" :{
+        "show_sql" : true,
+        "databaseName" : "go-pos",
+        "host" : "localhost",
+        "port" :3306
+    }
+}
